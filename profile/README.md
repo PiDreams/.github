@@ -1,6 +1,7 @@
 # PiDreams
 
 Would you like to donate? Donate here: https://paypal.me/pidream
+
 Hey! We're PiDreams.
 
 We're a small group of developers who enjoy building projects for Raspberry Pi devices. Most of our work focuses on creating software that's simple, lightweight, and easy to run without needing powerful hardware or complicated setup processes.
