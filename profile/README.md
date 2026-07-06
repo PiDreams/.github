@@ -59,5 +59,5 @@ You can also open an issue or discussion on any of our repositories.
 ## Thanks
 
 If you've found one of our projects useful, thank you for checking us out. PiDreams started as a place to share Raspberry Pi projects we enjoyed making, and we're excited to keep building new things for the community.
-
+:) 
 Happy tinkering. 🍓
